@@ -1,0 +1,14 @@
+{
+  "name": "jsgolf-shippo-server",
+  "version": "1.0.0",
+  "description": "Shippo proxy server for J's Golf Performance & Repair",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.9"
+  }
+}
